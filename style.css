@@ -1,0 +1,19 @@
+body{
+    background-color: blue;
+}
+h1{
+    text-align: center;
+    color: red;
+    background-color: black;
+}
+image{
+    width: 50px;
+}
+.link{
+    text-align: right;
+    color: chartreuse;
+    text-decoration: none;
+}
+
+
+
